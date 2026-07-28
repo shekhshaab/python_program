@@ -1,2 +1,1 @@
-"# python_program" 
-"# python_program" 
+0) Python program to display:
